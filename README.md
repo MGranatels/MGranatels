@@ -13,7 +13,7 @@
 <p align="left">
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/MM1212/ft_transcendence">Transcendence</a></li>
-    <li>🌱 I’m currently learning <strong>React, Typescript</strong></li>
+    <li>🌱 I’m currently learning <strong>Kotlin</strong></li>
     <li>💬 Ask me about <strong>C and C++</strong></li>
     <li>📫 How to reach me: <a href="mailto:mgranate_ls@hotmail.com">mgranate_ls@hotmail.com</a></li>
   </ul>
